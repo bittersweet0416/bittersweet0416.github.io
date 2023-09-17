@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on Bittersweet</title>
+        <link>https://bittersweet0416.github.io/categories/</link>
+        <description>Recent content in Categories on Bittersweet</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Sat, 16 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bittersweet0416.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Starter</title>
+        <link>https://bittersweet0416.github.io/categories/starter/</link>
+        <pubDate>Sat, 16 Sep 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://bittersweet0416.github.io/categories/starter/</guid>
+        <description>&lt;img src="https://bittersweet0416.github.io/categories/starter/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Starter" /&gt;</description>
+        </item>
+        <item>
+        <title>Test</title>
+        <link>https://bittersweet0416.github.io/categories/test/</link>
+        <pubDate>Sat, 16 Sep 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://bittersweet0416.github.io/categories/test/</guid>
+        <description>&lt;img src="https://bittersweet0416.github.io/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        </item>
+        <item>
+        <title>试试</title>
+        <link>https://bittersweet0416.github.io/categories/%E8%AF%95%E8%AF%95/</link>
+        <pubDate>Sat, 16 Sep 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://bittersweet0416.github.io/categories/%E8%AF%95%E8%AF%95/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
