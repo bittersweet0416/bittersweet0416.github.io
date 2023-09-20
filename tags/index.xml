@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on Bittersweet</title>
-        <link>https://bittersweet0416.github.io/tags/</link>
+        <link>https://bittersweet.github.io/tags/</link>
         <description>Recent content in Tags on Bittersweet</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>zh-cn</language><atom:link href="https://bittersweet0416.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+        <language>zh-cn</language><atom:link href="https://bittersweet.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
