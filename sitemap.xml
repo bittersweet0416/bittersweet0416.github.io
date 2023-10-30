@@ -14,9 +14,6 @@
     <loc>https://blog.kermsite.com/categories/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.kermsite.com/categories/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://blog.kermsite.com/post/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -24,6 +21,9 @@
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.kermsite.com/categories/%E6%B5%AA%E6%BC%AB%E5%8C%96%E7%9A%84%E7%A2%8E%E7%89%87%E5%BA%9F%E8%AF%9D/</loc>
+    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.kermsite.com/categories/%E7%94%9F%E7%9A%84%E9%95%BF%E8%AF%97/</loc>
     <lastmod>2023-10-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.kermsite.com/page/</loc>
@@ -35,8 +35,6 @@
     <loc>https://blog.kermsite.com/tags/</loc>
   </url><url>
     <loc>https://blog.kermsite.com/%E5%85%B3%E4%BA%8E/</loc>
-  </url><url>
-    <loc>https://blog.kermsite.com/categories/%E7%94%9F%E7%9A%84%E9%95%BF%E8%AF%97/%E7%94%9F%E7%9A%84%E9%95%BF%E8%AF%97/</loc>
   </url><url>
     <loc>https://blog.kermsite.com/search/</loc>
   </url>
