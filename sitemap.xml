@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.kermsite.com/p/%E6%97%A5%E8%82%A5%E4%B9%A6%E9%99%A2%E7%94%9F%E5%AD%98%E5%9B%9E%E5%BF%86%E5%BD%95/</loc>
+    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.kermsite.com/p/7thpyiff/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -9,21 +12,21 @@
     <lastmod>2023-10-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.kermsite.com/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.kermsite.com/categories/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.kermsite.com/post/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.kermsite.com/categories/%E7%94%9F%E7%9A%84%E9%95%BF%E8%AF%97/</loc>
+    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.kermsite.com/categories/%E6%BC%82%E6%B8%B8%E8%AE%B0/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.kermsite.com/categories/%E6%B5%AA%E6%BC%AB%E5%8C%96%E7%9A%84%E7%A2%8E%E7%89%87%E5%BA%9F%E8%AF%9D/</loc>
-    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.kermsite.com/categories/%E7%94%9F%E7%9A%84%E9%95%BF%E8%AF%97/</loc>
     <lastmod>2023-10-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.kermsite.com/page/</loc>
